@@ -1,0 +1,5 @@
+streamlit
+whisper
+language-tool-python
+gtts
+moviepy
