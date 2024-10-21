@@ -2,5 +2,6 @@ streamlit
 git+https://github.com/openai/whisper.git
 language-tool-python
 gtts
+ffmpeg
 moviepy
 torch
